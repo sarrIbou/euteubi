@@ -29,6 +29,10 @@
     {
       "implements": "part:@sanity/desk-tool/structure",
       "path": "./src/deskStructure"
-    }
+    },
+            "api": {
+    "projectId": "xxyyzz",
+    "dataset": "production"
+  }
   ]
 }
